@@ -2,7 +2,7 @@
 
 ## 📚 Informações sobre o projeto
 
-*A ideia dese projeto é apenas otimizar uma aplicação.
+*A ideia desse projeto é apenas otimizar uma aplicação.
 &nbsp;
 
 ## 🛠️ Ferramentas ultilizadas
